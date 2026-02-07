@@ -1,0 +1,7 @@
+{
+  "name": "Savonnerie Pro POS",
+  "description": "An image-based, touch-first laundry management system designed for non-educated cashiers. Features visual order entry, ticket generation, supplier tracking, and a production-ready dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
