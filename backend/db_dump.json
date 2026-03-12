@@ -1,0 +1,62 @@
+[
+  {
+    "ticket_id": "ea588fb6-cc8c-483d-b46a-84cadee60aa0",
+    "total": 47.5,
+    "status": "reçu",
+    "created_at": "2026-02-15 22:52:08"
+  },
+  {
+    "ticket_id": "dd706f48-d42f-49e0-94ef-d4e6a15f6fbc",
+    "total": 47.5,
+    "status": "reçu",
+    "created_at": "2026-02-15 22:52:08"
+  },
+  {
+    "ticket_id": "0bc2c7fd-6fa7-46e0-a13b-e2427051e8c3",
+    "total": 90,
+    "status": "reçu",
+    "created_at": "2026-02-15 22:47:09"
+  },
+  {
+    "ticket_id": "cf2d2ddd-fee1-4000-b43e-05c22a532500",
+    "total": 40,
+    "status": "reçu",
+    "created_at": "2026-02-15 22:40:20"
+  },
+  {
+    "ticket_id": "7d05e03b-ffc4-459f-80de-012d6f661625",
+    "total": 380,
+    "status": "reçu",
+    "created_at": "2026-02-13 12:07:53"
+  },
+  {
+    "ticket_id": "4f5ad683-eedb-42ad-a908-2270f610af31",
+    "total": 60,
+    "status": "reçu",
+    "created_at": "2026-02-13 11:47:17"
+  },
+  {
+    "ticket_id": "8fb0bc76-37c0-4ef3-905f-5a809034e8f8",
+    "total": 85,
+    "status": "reçu",
+    "created_at": "2026-02-13 10:26:48"
+  },
+  {
+    "ticket_id": "c2f91034-d428-4178-85ca-2bb71c1c142c",
+    "total": 20,
+    "status": "reçu",
+    "created_at": "2026-02-12 22:50:11"
+  },
+  {
+    "ticket_id": "e753ab9c-e3b4-44e9-bd37-0d11e7360289",
+    "total": 20,
+    "status": "reçu",
+    "created_at": "2026-02-12 22:50:11"
+  },
+  {
+    "ticket_id": "43841cff-b1ce-4143-95ce-8566a310a500",
+    "total": 60,
+    "status": "reçu",
+    "created_at": "2026-02-12 22:31:23"
+  }
+]

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;500;600;700;800;900&family=Cairo:wght@400;600;700;900&display=swap');
+
+:root {
+  --primary: #4f46e5;
+  --primary-glow: rgba(79, 70, 229, 0.15);
+  --glass: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.5);
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  @apply bg-[#f8fafc] text-slate-900 antialiased;
+}
+
+.font-arabic {
+  font-family: "Cairo", sans-serif !important;
+}
+
+/* Premium Card Effects */
+.premium-shadow {
+  @apply shadow-[0_20px_50px_-12px_rgba(0,0,0,0.08)];
+}
+
+.premium-card-hover {
+  @apply transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_30px_60px_-15px_rgba(79,70,229,0.15)];
+}
+
+.glass-morphism {
+  @apply backdrop-blur-xl bg-white/70 border border-white/50;
+}
+
+[dir="rtl"] .font-arabic {
+  text-align: right;
+}
+
+[dir="rtl"] .text-center {
+  text-align: center !important;
+}
+
+/* Sidebar & Nav consistency */
+.nav-item-active {
+  @apply bg-indigo-600 text-white shadow-[0_10px_25px_-5px_rgba(79,70,229,0.4)] ring-4 ring-indigo-50;
+}
+
+.nav-item-inactive {
+  @apply text-slate-400 hover:text-slate-600 hover:bg-slate-50 transition-all duration-300;
+}

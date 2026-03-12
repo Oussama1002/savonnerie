@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SqliteError: table order_items has no column named supplier_id<br> &nbsp; &nbsp;at Database.prepare (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\better-sqlite3\lib\methods\wrappers.js:5:21)<br> &nbsp; &nbsp;at createOrder (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\src\controllers\orders.controller.ts:84:25)<br> &nbsp; &nbsp;at Layer.handleRequest (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\lib\layer.js:152:17)<br> &nbsp; &nbsp;at next (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\lib\route.js:157:13)<br> &nbsp; &nbsp;at Route.dispatch (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\lib\route.js:117:3)<br> &nbsp; &nbsp;at handle (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\index.js:435:11)<br> &nbsp; &nbsp;at Layer.handleRequest (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\lib\layer.js:152:17)<br> &nbsp; &nbsp;at C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\index.js:295:15<br> &nbsp; &nbsp;at processParams (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\index.js:582:12)<br> &nbsp; &nbsp;at next (C:\Users\YASSINE\Downloads\savonnerie\savonnerie-pro-pos\backend\node_modules\router\index.js:291:5)</pre>
+</body>
+</html>
